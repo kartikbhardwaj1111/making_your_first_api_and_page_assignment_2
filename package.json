@@ -3,13 +3,22 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "## **Introduction**",
   "dependencies": {
     "express": "^4.21.1",
     "node": "^20.18.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikbhardwaj1111/making_your_first_api_and_page_assignment_2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kartikbhardwaj1111/making_your_first_api_and_page_assignment_2/issues"
+  },
+  "homepage": "https://github.com/kartikbhardwaj1111/making_your_first_api_and_page_assignment_2#readme"
 }
